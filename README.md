@@ -1,3 +1,3 @@
 # java_practice
 
-Practice Java Questions
+Java Practice Questions
