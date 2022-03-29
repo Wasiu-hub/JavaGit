@@ -10,7 +10,7 @@ public class SecondPlusThird {
 
         ArrayList<Integer> numbers = new ArrayList<>();
         while (true) {
-            int number = Integer.valueOf(scanner.nextLine());
+            int number = scanner.nextInt;
             if (number == 0) {
                 break;
             }
