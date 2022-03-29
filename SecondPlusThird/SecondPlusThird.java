@@ -1,3 +1,4 @@
+
 // Write a program that reads integers from the user and adds them to a list, this ends when the user enters 0, and find the sum of the second and third elements. The program is allowed to malfunction if there are fewerthan three entries on the list
 
 import java.util.ArrayList;
