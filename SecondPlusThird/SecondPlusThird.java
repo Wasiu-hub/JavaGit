@@ -11,7 +11,7 @@ public class SecondPlusThird {
 
         ArrayList<Integer> numbers = new ArrayList<>();
         while (true) {
-            int number = scanner.nextInt;
+            int number = scanner.nextInt();
             if (number == 0) {
                 break;
             }
