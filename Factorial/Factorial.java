@@ -10,7 +10,7 @@ public class Factorial {
         Scanner scanner = new Scanner(System.in);
         int product = 1;
         System.out.print("Give number: ");
-        int n = Integer.valueOf(scanner.nextLine());
+        int n = scanner.nextInt;
         for (int i = 1; i <= n; i++) {
             product = product * i;
         }
