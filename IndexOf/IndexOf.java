@@ -11,7 +11,7 @@ public class IndexOf {
 
         ArrayList<Integer> list = new ArrayList<>();
         while (true) {
-            int input = Integer.valueOf(scanner.nextLine());
+            int input = scanner.nextInt();
             if (input == -1) {
                 break;
             }
@@ -20,7 +20,7 @@ public class IndexOf {
         }
 
         System.out.print("Search for? ");
-        int number = Integer.valueOf(scanner.nextLine());
+        int number = scanner.nextInt();
         for (int i = 0; i < list.size(); i++) {
             int index = list.get(i);
             if (index == number) {
