@@ -1,4 +1,4 @@
-
+:
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -16,7 +16,7 @@ public class IndexOfSmallest {
         // and its index -- the smallest number
         // might appear multiple times
         while (true) {
-            int input = Integer.valueOf(scanner.nextLine());
+            int input = scanner.nextInt();
             if (input == 9999) {
                 break;
             }
