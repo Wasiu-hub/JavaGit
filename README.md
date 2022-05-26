@@ -1,3 +1,3 @@
 # java_practice
 
-Java Practice Questions
+These are random Java questions I try to solve
